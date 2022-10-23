@@ -13,7 +13,7 @@ Github 내 Pages 기능과 pyscript 를 이용하여 제작한 페이지 입니�
 
 -----
 
-## 교사 협업 페이지
+## 교회 교사 협업 페이지
 <img width="826" alt="스크린샷 2022-10-24 오전 1 48 43" src="https://user-images.githubusercontent.com/96401830/197404833-77852401-80a3-46bd-a255-4cc7555f9ec2.png">
 
 교회 학교 교사들의 협업을 위해 제작한 페이지 입니다.
